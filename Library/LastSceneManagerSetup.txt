@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Examples/Assets/Models/Components/Materials/mod1activeneedy.unity
+  isLoaded: 1
+  isActive: 1
